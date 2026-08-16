@@ -446,5 +446,3 @@ print(
 print("\nSaved files:")
 print("1. heart_disease_prediction_model.pkl")
 print("2. heart_disease_scaler.pkl")
-
-Add main.py file
