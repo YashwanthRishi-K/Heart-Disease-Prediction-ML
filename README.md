@@ -1,7 +1,7 @@
-# Heart-Stroke
-# Heart Stroke Prediction Using Machine Learning
+# Heart-Disease
+# Heart Disease Prediction Using Machine Learning
 
-This is a machine learning mini-project completed during my college days. It implements and compares **Logistic Regression** and **Random Forest Classifier** models to predict heart stroke risks based on health metrics.
+This is a machine learning mini-project completed during my college days. It implements and compares **Logistic Regression** and **Random Forest Classifier** models to predict heart Disease risks based on health metrics.
 
 ## 🚀 Features
 * **Data Preprocessing:** Handles missing values and automates data type conversions.
